@@ -1,6 +1,6 @@
-# Expense-Tracker
-Expense Tracker Overview
-The Expense Tracker is a web application that allows users to record and manage their expenses. Users can add, view, and delete expenses, helping them keep track of their spending habits.
+# portfolio
+ portfolio overview
+The portfolio is a web application that allows users to record and manage their expenses. Users can add, view, and delete expenses, helping them keep track of their spending habits.
 
 Features
 Add new expenses with a description, amount, and date.
